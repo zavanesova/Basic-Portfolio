@@ -1,0 +1,74 @@
+html{
+    background-image: url(../images/extra_clean_paper.png);
+    background-size: cover;
+    background-color: lightgrey;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: #ffffff;
+    border-bottom: 2px solid;
+    border-color: #cccccc;
+    margin-bottom: 50px;
+}
+.name{
+    background-color: #4aaaa5;
+    width: 300px;
+    height: 60px;
+    color: #ffffff;
+    text-align: center;
+    padding: 7px;    
+
+}
+.aboutme{
+    color: #4aaaa5;
+    border-bottom: 2px solid;
+    border-color: #cccccc;
+    margin: 25px;
+}
+img{
+    width: 220px;
+    height: 250px;
+    float: left;
+    margin: 25px;
+}
+.contact{
+    float: right;
+    color: #777777;
+    margin: 1%;
+    width: 8%;
+}
+.portfolio{
+    float: right;
+    color: #777777;
+    border-right: 2px solid;
+    border-color:#777777;
+    margin: 1%;
+    width: 8%;
+}
+.about{
+    float: right;
+    color: #777777;
+    border-right: 2px solid;
+    border-color:#777777;
+    margin: 1%;
+    width: 8%;
+}
+.wrapper{
+    background-color: #ffffff;
+    color: #777777;
+    border: 1px solid;
+    width: 960px;
+    height: 900px;
+    text-align: left; 
+    margin: 0 auto;
+}
+.bio{
+    margin: 25px;
+    padding-top: 25px;
+    
+}
+.footer{
+    height: 50px;
+    margin-top: -50px;
+}
