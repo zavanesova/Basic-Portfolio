@@ -10,13 +10,13 @@ header{
 }
 .name{
     position: relative;
-    right: 278px;
+    right: 293px;
     top: 58px;
     background-color: #4aaaa5;
     color: #ffffff;
     text-align: center;
     padding: 18px; 
-    width: 30%;
+    width: 340px;
     margin: auto ;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -83,7 +83,7 @@ img{
 .wrapper{
     background-color: #ffffff;
     color: #777777;
-    border: 1px solid;
+    border: 1px solid #cccccc;
     width: 960px;
     height: 800px;
     text-align: left; 
